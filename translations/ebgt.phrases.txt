@@ -1,0 +1,79 @@
+"Phrases"
+{
+	"ChatTag"
+	{
+		"en"		"{darkred}[{darkblue}eBGT{darkred}]{default} "
+	}
+	
+	"Command is not allowed from console"
+	{
+		"en"		"This command is only usable in-game."
+	}
+	
+	"No access to command"
+	{
+		"en"		"You don't have access to this command!"
+	}
+	
+	"Player by UserId not found" 
+	{
+		"#format"	"{1:i}"
+		"en"		"Player #{1} was not found."
+	}
+	
+	"You must be alive"
+	{
+		"en"		"You must be alive to use this command!"
+	}
+	
+	"Player must be alive"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {1} must be alive!"
+	}
+	
+	"You've been teleported"
+	{
+		"#format"	"{1:N}"
+		"en"		"You've been teleported to {1}"
+	}
+	
+	"You teleported player"
+	{
+		"#format"	"{1:N}"
+		"en"		"You teleported {1}"
+	}
+	
+	"Player teleported to your position"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {1} teleported to your position."
+	}
+	
+	"You've been teleported by"
+	{
+		"#format"	"{1:N}"
+		"en"		"You've been teleported by {1}."
+	}
+	
+	"Player by name not found"
+	{
+		"#format"	"{1:s}"
+		"en"		"Player by name \"{1}\" not found."
+	}
+	
+	"Menu Title - Bring"
+	{
+		"en"		"Choose player to teleport on your aim position:"
+	}
+	
+	"Menu Title - GoTo"
+	{
+		"en"		"Choose client to teleport to:"
+	}
+	
+	"Menu Item - No players"
+	{
+		"en"		"No players..."
+	}
+}
